@@ -1,6 +1,9 @@
 ---
 title: "Home"
 ---
+<p>
+  <a href="/projects/" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">My Projects</a>
+</p>
 
 # Hi, I'm Divit Chopra 👋
 
